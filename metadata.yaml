@@ -1,0 +1,36 @@
+_repo: Homer-and-His-Age_7972
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7972'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Homer -- Homes and haunts -- Greece'
+- !lcsh 'Homer'
+- !lcc 'PA'
+- !lcsh 'Epic poetry, Greek -- History and criticism'
+- !lcsh 'Civilization, Homeric'
+- GITenberg
+tableOfContents: 'The Homeric age -- Hypotheses as to the growth of the epics -- Hypotheses
+  of epic composition -- Loose feudalism: the over-lord in "Iliad," books I and II
+  -- Agamemnon in the later "Iliad" -- Archaeology of the "Iliad": burial and cremation
+  -- Homeric armour -- The breastplate -- Bronze and iron -- The Homeric house --
+  Notes of change in the "Odyssey" -- Linguistic proofs of various dates -- The "Doloneia":
+  "Iliad," book X -- The interpolations of Nestor -- The comparative study of early
+  epics -- Homer and the French mediaeval epics -- Conclusion.'
+title: Homer and His Age
+url: http://www.gutenberg.org/ebooks/7972
